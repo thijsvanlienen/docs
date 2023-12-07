@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Tiske
 layout: home
 ---
 
